@@ -1,1 +1,1 @@
-# Algoritmos-e-Programa-o-2026.02
+# Repositório da disciplina de Algoritmos e Programação 
