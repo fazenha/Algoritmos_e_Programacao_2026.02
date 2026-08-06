@@ -1,12 +1,15 @@
-public class Main {
-    public static void main(String[] args) {
-        // Mensagem de teste
-        System.out.println("Olá! Seu ambiente Java online está funcionando!");
+import java.util.Scanner;
+
+public class Exemplo1 {
+
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite:");
+        double n1 = sc.nextDouble();
+        double n2 = sc.nextDouble();
+        double n3 = sc.nextDouble();
+        double media = (n1+n2+n3)/3;
         
-        // Operação matemática simples
-        int a = 10;
-        int b = 5;
-        int soma = a + b;
-        System.out.println("Teste de soma (10 + 5) = " + soma);
+        System.out.println("Media = "+media);
     }
 }
