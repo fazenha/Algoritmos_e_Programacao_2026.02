@@ -1,4 +1,6 @@
 // Importa a ferramenta Scanner para que o programa consiga ler o teclado
+package Aula_1;
+
 import java.util.Scanner;
 
 // Define a classe pública "Exemplo2".
