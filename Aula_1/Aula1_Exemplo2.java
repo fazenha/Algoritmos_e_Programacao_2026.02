@@ -4,7 +4,7 @@ package Aula_1;
 import java.util.Scanner;
 
 // Define a classe pública "Exemplo2".
-public class Exemplo2 {
+public class Aula1_Exemplo2 {
   public static void main(String[] args) { // Este é o método principal (main)  
     
     Scanner sc = new Scanner(System.in);  // Cria um objeto chamado 'sc' para a leitura 

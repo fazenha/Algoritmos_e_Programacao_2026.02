@@ -1,7 +1,7 @@
 package Aula_1;
 import java.util.Scanner;
 
-public class Exemplo1 {
+public class Aula1_Exemplo1 {
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in); // Objeto para leitura do teclado
