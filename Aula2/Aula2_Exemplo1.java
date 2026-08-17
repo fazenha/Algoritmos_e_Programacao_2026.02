@@ -9,9 +9,9 @@ public class Aula2_Exemplo1 {
 		String nome = "Ana";
 
 		// erro pego na COMPILACAO:
-		// idade = "vinte";
+		idade = 46;
 		
 		
-		System.out.printf("Olá,meu nome é " + nome + "%nEu tenho " + idade + " anos%n" +"Atualmente, eu tenho " + peso + "kg%n");
+		System.out.printf("Olá,meu nome é " + nome + "%nEu tenho " + idade + " anos%n" + "Atualmente, eu tenho " + peso + "kg%n");
 	}
 }
