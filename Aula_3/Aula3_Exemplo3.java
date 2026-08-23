@@ -44,5 +44,7 @@ public class Aula3_Exemplo3 {
         }
 
         System.out.println("O número " + numero + " corresponde ao dia da semana: " + nome);
+
+        sc.close();
     }
 }

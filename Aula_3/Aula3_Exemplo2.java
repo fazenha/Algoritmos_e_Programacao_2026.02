@@ -27,6 +27,8 @@ public class Aula3_Exemplo2 {
             conceito = "D";
         }
         System.out.println("Conceito: " + conceito);
+
+        sc.close();
        
     }
     

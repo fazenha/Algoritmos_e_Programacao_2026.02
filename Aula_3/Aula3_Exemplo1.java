@@ -19,5 +19,7 @@ public class Aula3_Exemplo1 {
             System.out.println("Não pode dirigir");
         }
         System.out.println("Fim do programa");
+
+        sc.close();
     }
 }

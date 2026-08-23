@@ -33,6 +33,8 @@ public class Aula3_Exemplo4 {
             }            
         } else{
             System.out.println("Idade não permitida");
-        }        
+        }
+
+        sc.close();
     }    
 }
