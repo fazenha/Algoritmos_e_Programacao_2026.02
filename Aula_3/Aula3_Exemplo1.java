@@ -14,8 +14,7 @@ public class Aula3_Exemplo1 {
             System.out.println("Maior de idade");
             System.out.println("Pode dirigir");
 
-        }
-        else {
+        } else {
             System.out.println("Menor de idade");
             System.out.println("Não pode dirigir");
         }
