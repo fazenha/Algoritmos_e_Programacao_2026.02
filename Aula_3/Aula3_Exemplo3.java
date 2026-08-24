@@ -11,7 +11,7 @@ public class Aula3_Exemplo3 {
         String nome;
 
         switch (numero) {
-             case 1:
+            case 1:
                 nome = "Segunda";
             break;
             
