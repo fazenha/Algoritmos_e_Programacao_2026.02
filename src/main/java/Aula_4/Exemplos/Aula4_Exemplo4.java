@@ -23,7 +23,7 @@ public class Aula4_Exemplo4 {
         System.out.println("===================================="); 
         System.out.println("CONTINUE");
         
-        for (int i = 1; i < 7; i++) {
+        for (int i = 1; i < 12; i++) {
             
             if (i % 2 == 0) {
                 continue; 
