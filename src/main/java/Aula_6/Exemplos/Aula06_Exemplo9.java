@@ -12,10 +12,8 @@ public class Aula06_Exemplo9 {
     }
 
     // O metodo copia antes de alterar
-    static ArrayList<Double> comBonus(
-            ArrayList<Double> l) {
-        ArrayList<Double> nova =
-            new ArrayList<>(l);
+    static ArrayList<Double> comBonus(ArrayList<Double> l) {
+        ArrayList<Double> nova =  new ArrayList<>(l);
         nova.add(10.0);
         return nova;
     }
