@@ -20,9 +20,11 @@ public class Aula06_Exemplo5 {
         ArrayList<Double> l = new ArrayList<>();
         l.add(7.5);
         l.add(8.0);
-        double y = l.get(0);
+        l.add(8.4);
+        l.add(8.6);
+        double y = l.get(2);
         int m = l.size();       // 2
-        System.out.println("ArrayList: primeiro = " + y + ", tamanho = " + m);
+        System.out.println("ArrayList: terceiro = " + y + ", tamanho = " + m);
     }
 
 }

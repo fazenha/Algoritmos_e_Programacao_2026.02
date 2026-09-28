@@ -15,7 +15,7 @@ public class Aula06_Exemplo3 {
         System.out.println(notas[notas.length - 1]);   // 6.5
         notas[1] = 9.0;                                // altera a posicao 1
         System.out.println(Arrays.toString(notas));    // [7.5, 9.0, 6.5]
-        //System.out.println(notas[3]);                  // indice 3 nao existe
+        System.out.println(notas[1]);                  // indice 3 nao existe
 
         // Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException:
         //     Index 3 out of bounds for length 3
