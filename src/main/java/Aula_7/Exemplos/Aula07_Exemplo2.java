@@ -17,7 +17,7 @@ public class Aula07_Exemplo2 {
         System.out.println(Arrays.toString(notas[0]));    // [10.0, 8.0, 6.5]
 
         // Provoque o erro: a linha 4 nao existe (indices validos: 0 a 3)
-        System.out.println(notas[4][0]);                  // ArrayIndexOutOfBoundsException
+        //System.out.println(notas[4][0]);                  // ArrayIndexOutOfBoundsException
     }
 
 }
