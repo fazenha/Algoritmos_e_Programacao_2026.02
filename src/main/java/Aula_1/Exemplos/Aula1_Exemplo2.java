@@ -1,5 +1,5 @@
 // Importa a ferramenta Scanner para que o programa consiga ler o teclado
-package Aula_1;
+package Aula_1.Exemplos;
 
 import java.util.Scanner;
 
