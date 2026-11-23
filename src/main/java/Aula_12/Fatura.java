@@ -12,6 +12,10 @@ public class Fatura implements Pagavel {
         this.valor = valor;
     }
 
+    public String getDescricao() {
+        return descricao;
+    }
+
     @Override
     public double calcularPagamento() {
         return valor;
